@@ -1,6 +1,7 @@
 
+user_name = "John Doe"
 
+def display_function():
+    print(user_name)
 
-def conflict_function():
-    print("Hello,this is a conflict")
-
+print("NEW")
